@@ -5,7 +5,7 @@
 #
 
 adfs:master.c slave.c inkprotocol.o
-	gcc -lpthread inkprotocol.o -o master master.c
+	gcc -pthread inkprotocol.o -o master master.c
 	gcc -o slave slave.c
 
 inkprotocol.o:inkprotocol.c inkprotocol.h
