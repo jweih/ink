@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2013 HuangTao All rights reserved.
  *
- * huangtao@antiy.com
+ * kevinhwm@gmail.com
  */
 
 #ifndef MASTER_H
