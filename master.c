@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2013 HuangTao All rights reserved.
+ * Copyright (c) 2013 All rights reserved.
  *
  * kevinhwm@gmail.com
  */
